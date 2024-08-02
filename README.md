@@ -31,7 +31,6 @@ conda env create -f environment.yaml
 conda activate d4-vton
 ```
 3. Please download the pre-trained [vgg](https://drive.google.com/file/d/1rvow8jStPt8t2prDcSRlnf8yzXhrYeGo/view?usp=sharing) checkpoint and put it in `Synthesis_Stage/model/vgg/`.
-4. (Optional) You can 
 
 ### Data Preparation
 To test the D4-VTON, you can download the VITON-HD(512 x 384) datasets from [GP-VTON](https://github.com/xiezhy6/GP-VTON).

@@ -1,5 +1,5 @@
 <h1>[ECCV 2024] D4-VTON</h1>
-<a href='https://arxiv.org/abs/2407.15111'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://arxiv.org/abs/2407.15111'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=_EEHaYDKd1M)
 
 This is the official PyTorch codes for the paper:  
 >**D$^4$-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On**<br>  [Zhaotong Yang](https://github.com/Jerome-Young), [Zicheng Jiang](https://github.com/bronyajiang), [Xinzhe Li](https://github.com/lixinzhe-ouc), [Huiyu Zhou](https://le.ac.uk/people/huiyu-zhou), [Junyu Dong](https://it.ouc.edu.cn/djy_23898/main.htm), [Huaidong Zhang](https://github.com/Xiaodomgdomg/), [Yong Du<sup>*</sup>](https://www.csyongdu.cn/) （ * indicates corresponding author)<br>

@@ -124,11 +124,13 @@ Our code references the implementation of [DAFlow](https://github.com/OFA-Sys/DA
 
 If you find our work useful for your research, please cite us:
 ```
-@article{yang2024d,
-  title={D $\^{} 4$-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On},
+@inproceedings{yang2025textrm,
+  title={$$$\backslash$textrm $\{$D$\}$\^{} 4$$-VTON: Dynamic Semantics Disentangling for Differential Diffusion Based Virtual Try-On},
   author={Yang, Zhaotong and Jiang, Zicheng and Li, Xinzhe and Zhou, Huiyu and Dong, Junyu and Zhang, Huaidong and Du, Yong},
-  journal={arXiv preprint arXiv:2407.15111},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={36--52},
+  year={2025},
+  organization={Springer}
 }
 ```
 
